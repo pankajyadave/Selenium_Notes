@@ -1,7 +1,15 @@
 Selenium Latest Version---------------------------->
 Selenium 4.0 Alpha 1 -->May 2019
 
-
-
-Selenium is an open-source tool that automates web browsers.
+Common Exceptions in Selenium WebDriver--------------------------->
+NoSuchElementException
+NoSuchWindowException
+NoSuchFrameException
+NoAlertPresentException
+InvalidSelectorException
+ElementNotVisibleException
+ElementNotSelectableException
+TimeoutException
+NoSuchSessionException
+StaleElementReferenceException
 
